@@ -28,4 +28,5 @@ end
 def kesha_maker(array)
   kesha = []
   array.each do |word|
-    word.array = word.split
+    word.array = word.split ""
+    
