@@ -31,3 +31,8 @@ def kesha_maker(array)
     word.array = word.split ""
     word_array[2] = "$"
     kesha << word_array.join
+  end
+  kesha
+end
+
+def find_a()
