@@ -15,4 +15,5 @@ def swap_elements(strings)
   return strings
 end
 
-
+def swap_elements_from_to(array, index, destination_index)
+  
